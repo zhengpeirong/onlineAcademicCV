@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng Peirong / Personal Academic Page"
+title                    : "Peirong Zheng/ Personal Academic Page"
 title_separator          : "-"
-name                     : &name "Zheng Peirong"
+name                     : &name "Peirong Zheng"
 description              : &description "personal description"
 url                      : https://zhengpeirong.github.io/onlineAcademicPage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Peirong 郑培荣"
+  name             : "Peirong Zheng\n郑培荣"
   avatar           : "profile.png"
   bio              : "I am currently seeking an RA or a fully-funded PhD position in the area of deep learning after completing M.Sc at NTU before January 2024."
   location         : "Singapore"

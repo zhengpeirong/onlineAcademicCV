@@ -85,8 +85,8 @@ author:
   bio              : "I am currently seeking an RA or a fully-funded PhD position in the area of deep learning after completing M.Sc at NTU before January 2024."
   location         : "Singapore"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "pzheng003@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

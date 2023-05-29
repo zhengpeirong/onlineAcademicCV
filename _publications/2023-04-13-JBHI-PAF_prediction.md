@@ -6,6 +6,4 @@ paperurl: 'http://academicpages.github.io/files/JBHI-PAF_prediction.pdf'
 ---
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-venue: 'Journal of Biomedical and Health Informatics (JBHI)'
-
-date: 2023-04-13(Submitted)
+Submitted to the Journal of Biomedical and Health Informatics (JBHI) on 2023-04-13.

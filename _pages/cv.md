@@ -27,6 +27,15 @@ Education
   * Grade Points: 3.65/4
   * TOEFL(iBT): 103
 
+
+Publications
+============
+
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Research experience
 ===================
 
@@ -43,10 +52,3 @@ Skills
   * PyTorch
   * TensorFlow
 * Matlab
-
-Publications
-============
-
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>

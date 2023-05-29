@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng Peirong / Personal academic page"
+title                    : "Zheng Peirong / Personal Academic Page"
 title_separator          : "-"
 name                     : &name "Zheng Peirong"
 description              : &description "personal description"

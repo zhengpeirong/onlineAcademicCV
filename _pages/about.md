@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently seeking a fully-funded PhD position after completing M.Sc at NTU in January 2024. My research interest broadly lies in the application of AI, specifically semi-supervised learning and federated learning methods, to analyze medical signals. I am highly motivated to explore these cutting-edge research topics.
+I am currently seeking an RA or a fully-funded PhD position after completing M.Sc at NTU in January 2024. My research interest broadly lies in the application of AI, specifically semi-supervised learning and federated learning methods, to analyze medical signals. I am highly motivated to explore these cutting-edge research topics.
 
 ## News
 
-- [12/2022] One paper is accepted to EMBC 2023
+- [02/2023] One paper is accepted to EMBC 2023
 
 Education
 ---------
@@ -32,7 +32,6 @@ M.Sc in Communications Engineering<br />
 </font>
 </p>
 
-
 <p style="line-height:1.0">
 <font size="2">
 </font>
@@ -42,11 +41,14 @@ M.Sc in Communications Engineering<br />
 ### University of Electronic Science and Technology of China
 <p style="line-height:1.0">
 <font size="2">
-Aug 2018 - May 2022<br />
+Aug 2018 - July 2022<br />
 B.E. in Communication Engineering (<b>Yingcai Honors Program</b> of UESTC)<br />
 CGPA: 3.65/4		TOEFL(iBT): 103
 </font>
 </p>
 
-
 ## Publications
+
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

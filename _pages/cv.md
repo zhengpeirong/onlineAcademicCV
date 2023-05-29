@@ -24,7 +24,7 @@ Education
 </div>
 
 * Beng in Communication Engineering (Yingcai Honors Program of UESTC)
-  * Grade Points: 3.65/4
+  * CGPA: 3.65/4
   * TOEFL(iBT): 103
 
 Publications

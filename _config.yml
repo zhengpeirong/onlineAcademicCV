@@ -11,9 +11,9 @@ title                    : "Zheng Peirong / Personal Academic Page"
 title_separator          : "-"
 name                     : &name "Zheng Peirong"
 description              : &description "personal description"
-url                      : https://zhengpeirong.github.io/onlineAcademicCV/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhengpeirong.github.io/onlineAcademicPage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhengpeirong/onlineAcademicCV"
+repository               : "zhengpeirong/onlineAcademicPage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently seeking an RA or a fully-funded PhD position after completing M.Sc at NTU in January 2024. My research interest broadly lies in the application of AI, specifically semi-supervised learning and federated learning methods, to analyze medical signals. I am highly motivated to explore these cutting-edge research topics.
+I am currently seeking an RA or a fully-funded PhD position after completing M.Sc at NTU in January 2024. My research interest broadly lies in the application of AI, specifically semi-supervised learning and federated learning methods, to analyze medical signals. I am highly motivated to explore these cutting-edge research topics. You can download my CV [here](../files/CV-Zheng Peirong.pdf) .
 
 ## News
 

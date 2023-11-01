@@ -19,7 +19,7 @@ Education
 <p style="line-height:1.0">
 <font size="2">
 Jan 2024 - present<br />
-PhD student at Computing@PolyU<br />
+PhD student in Computing@PolyU<br />
 </font>
 </p>
 -----

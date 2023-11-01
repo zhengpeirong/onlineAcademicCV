@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<a href='../files/CV-Zheng Peirong.pdf'>CV (click to download)</a>"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -70,7 +70,5 @@ Research Experience
 Skills
 ======
 
-* Python
-  * PyTorch
-  * TensorFlow
+* PyTorch
 * Matlab

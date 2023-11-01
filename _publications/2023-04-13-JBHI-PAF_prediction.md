@@ -4,7 +4,7 @@ collection: publications
 excerpt: 'Submitted to *Journal of Biomedical and Health Informatics (JBHI)*, 2023. Currently waiting for the response.'
 paperurl: 'http://academicpages.github.io/files/JBHI-PAF_prediction.pdf'
 ---
-Not published yet. Submitted to the Journal of Biomedical and Health Informatics (JBHI) on 2023-04-13.
+*Under review*. Submitted to the Journal of Biomedical and Health Informatics (JBHI) on 2023-04-13.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 

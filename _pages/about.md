@@ -23,6 +23,18 @@ PhD student in Computing@PolyU<br />
 </font>
 </p>
 -----
+<!-- 增加style -->
+<style>
+    .padded-image {
+        width: 106px;
+        height: 106px;
+        padding-left: 27px;  /* (160 - 106) / 2 */
+        padding-right: 27px; /* (160 - 106) / 2 */
+        background-color: white;  /* 填充颜色，您可以根据需要调整 */
+        box-sizing: border-box;
+    }
+</style>
+
 
 <img style="float: left; margin:5px 10px" src="images/PolyU_logo.png" width="160" height="140">
 ### The Hong Kong Polytechnic University
@@ -53,7 +65,7 @@ M.Sc in Communications Engineering<br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png" width="160" height="140">
+<img class="padded-image" style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png">
 ### University of Electronic Science and Technology of China
 <p style="line-height:1.0">
 <font size="2">

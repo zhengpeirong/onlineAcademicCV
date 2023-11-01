@@ -13,7 +13,7 @@ Education
 
 <div style="display: flex; justify-content: space-between;">
     <div><b>Nanyang Technological University (NTU)</b>	</div>
-    <div>08/2022 - present</div>
+    <div>08/2022 - 11/2023</div>
 </div>
 
 - MSc in Communications Engineering

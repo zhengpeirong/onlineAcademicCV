@@ -7,27 +7,43 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently seeking an RA or a fully-funded PhD position after completing M.Sc at NTU in January 2024. My research interest broadly lies in the application of AI, specifically semi-supervised learning and federated learning methods, to analyze medical signals. I am highly motivated to explore these cutting-edge research topics. You can download my CV [here](../files/CV-Zheng Peirong.pdf) .
+I am currently a PhD student at PolyU, supervised by [Dr XU Wenchao](https://huasion23.github.io/). My research interest broadly lies in the application of AI, specifically edge intellegence and LLMs. I am highly motivated to explore these cutting-edge research topics. You can download my CV [here](files/CV-Zheng Peirong.pdf).
 
 ## News
 
-- [02/2023] One paper is accepted to EMBC 2023
+- [02/2023] One paper is accepted to IEEE EMBC'23
 
 Education
 ---------
 
 <p style="line-height:1.0">
 <font size="2">
-Aug 2022 - Present<br />
-M.Sc. student at EEE@NTU<br />
+Jan 2024 - present<br />
+PhD student at Computing@PolyU<br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
+
+<img style="float: left; margin:5px 10px" src="images/PolyU_logo.png" width="160" height="140">
+### The Hong Kong Polytechnic University
+<p style="line-height:1.0">
+<font size="2">
+Jan 2024 - Dec 2027<br />
+PhD in Computing<br />
+</font>
+</p>
+
+<p style="line-height:1.0">
+<font size="2">
+</font>
+</p>
+-----
+
+<img style="float: left; margin:5px 10px" src="images/NTU_logo.png" width="160" height="140">
 ### Nanyang Technological University
 <p style="line-height:1.0">
 <font size="2">
-Aug 2022 - Present<br />
+Aug 2022 - Nov 2023<br />
 M.Sc in Communications Engineering<br />
 </font>
 </p>
@@ -37,7 +53,7 @@ M.Sc in Communications Engineering<br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/UESTC_xiaohui.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png" width="160" height="140">
 ### University of Electronic Science and Technology of China
 <p style="line-height:1.0">
 <font size="2">

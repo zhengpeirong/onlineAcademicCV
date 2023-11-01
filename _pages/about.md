@@ -26,11 +26,13 @@ PhD student in Computing@PolyU<br />
 <!-- 增加style -->
 <style>
     .padded-image {
-        width: 106px;
-        height: 106px;
-        padding-left: 27px;  /* (160 - 106) / 2 */
-        padding-right: 27px; /* (160 - 106) / 2 */
-        background-color: white;  /* 填充颜色，您可以根据需要调整 */
+        width: 160px;
+        height: 160px;
+        padding-left: 27px;/* (160 - 106) / 2 */
+        padding-right: 27px;
+        padding-top: 27px;
+        padding-bottom: 27px;
+        background-color: white;
         box-sizing: border-box;
     }
 </style>

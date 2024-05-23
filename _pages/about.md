@@ -11,7 +11,7 @@ I am currently a PhD student at PolyU, supervised by [Dr XU Wenchao](https://hua
 
 ## News
 
-- [05/2024] One paper is accepted to SIGKDD'23
+- [05/2024] One paper is accepted to SIGKDD'24
 - [02/2023] One paper is accepted to IEEE EMBC'23
 
 Education

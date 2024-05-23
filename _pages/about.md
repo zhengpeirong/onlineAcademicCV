@@ -11,6 +11,7 @@ I am currently a PhD student at PolyU, supervised by [Dr XU Wenchao](https://hua
 
 ## News
 
+- [05/2024] One paper is accepted to SIGKDD'23
 - [02/2023] One paper is accepted to IEEE EMBC'23
 
 Education
@@ -73,7 +74,7 @@ M.Sc in Communications Engineering<br />
 <font size="2">
 Aug 2018 - July 2022<br />
 B.E. in Communication Engineering (<b>Yingcai Honors Program</b> of UESTC)<br />
-CGPA: 3.65/4		TOEFL(iBT): 103
+<!-- CGPA: 3.65/4		TOEFL(iBT): 103 -->
 </font>
 </p>
 
